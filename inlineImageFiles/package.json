@@ -18,7 +18,7 @@
     "webpack-cli": "^2.1.5"
   },
   "dependencies": {
-    "base64-inline-loader": "^1.1.1",
+    "base64-inline-loader": "^2.0.1",
     "ins": "0.0.0"
   }
 }
